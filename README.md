@@ -1,4 +1,4 @@
-# Chemical-Solubility-Predictor
+# ChemSol: Molecular Solubility Predictor
 
 Predicts the solubility of chemcial compounds using molecular descriptors and Linear Regression.
 
