@@ -1,6 +1,6 @@
 # ChemSol: Molecular Solubility Predictor
 
-Predicts the solubility of chemcial compounds using molecular descriptors and Linear Regression.
+Predicts the solubility of chemical compounds using molecular descriptors and Linear Regression.
 
 ## Dataset
 - 1,144 chemical compounds (Delaney dataset)
