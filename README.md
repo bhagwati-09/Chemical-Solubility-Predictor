@@ -10,7 +10,7 @@ Predicts the solubility of chemical compounds using molecular descriptors and Li
 - Algorithm: Linear Regression
 - R_squared score: 0.689
 - MAE: 0.904
-
+![Solubility prediction scatter plot](CO2_prediction.png)
 ## Tools
 Python | Pandas | Scikit-learn | Matplotlib | RDKit
 
